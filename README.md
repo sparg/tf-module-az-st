@@ -1,2 +1,6 @@
-# tf-module-az-st
-Terreform module for Storage in Azure
+## Module
+
+### Structure
+- **main.tf**
+- **variables.tf**
+- **outputs.tf**
